@@ -1,0 +1,19 @@
+{
+  "name": "snowpack-learn",
+  "version": "1.0.0",
+  "description": "Learn creating a snowpack project",
+  "main": "index.js",
+  "scripts": {
+    "start": "snowpack dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "snowpack",
+    "toolchain"
+  ],
+  "author": "Rudi Farkas",
+  "license": "ISC",
+  "devDependencies": {
+    "snowpack": "^3.8.8"
+  }
+}
