@@ -1,7 +1,7 @@
 {
-  "name": "snowpack-learn",
+  "name": "snowpack-project-start",
   "version": "1.0.0",
-  "description": "Learn creating a snowpack project",
+  "description": "Learn creating a snowpack project and other tricks of the trade",
   "main": "index.js",
   "scripts": {
     "start": "snowpack dev",

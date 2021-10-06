@@ -1,4 +1,4 @@
-// snowpack-learn/index.js
+// snowpack-project-start/index.js
 import {helloWorld} from './hello-world.js';
 import confetti from 'canvas-confetti';
 
