@@ -5,7 +5,7 @@
 .vercel
 lerna-debug.log
 node_modules
-package-lock.json
+
 build/
 test/__temp__
 test/build/**/build
